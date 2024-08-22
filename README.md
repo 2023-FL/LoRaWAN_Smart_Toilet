@@ -9,6 +9,8 @@ LoRa ESP32 sensor 1, which connect with UVC lamp for sterilization
 ![image](https://github.com/user-attachments/assets/0e8ba688-04fd-4961-a94e-5182dbf8880c)
 
 Below is LoRaESP32 sensor 2, which connects with IR sensor
-![image](https://github.com/user-attachments/assets/df26da2b-f24c-4fb4-8508-d6f98d9aeb26)
+![image](https://github.com/user-attachments/assets/0614894e-40e9-48db-b666-e381bd5ac1d9)
+
+Furthermore, I have applied LiDAR Radar sensor for detecting anyone falling down on the toilet floor but do not disclose personal image anginst privacy ordiance (privacy law) and make the end-user embarring. (The video is under oncstruction!)
 
 [YouTube URL] (https://youtu.be/uDdYT3XUZX0)
